@@ -1,2 +1,7 @@
-# 잡왕(구인구직 플랫폼 1)
-
+![1](https://github.com/user-attachments/assets/255a16ca-31b9-4861-bead-eec10ab3adcb)
+![2](https://github.com/user-attachments/assets/5896e9bc-546d-4926-93b5-24233180f484)
+![3](https://github.com/user-attachments/assets/37a3af9a-1a2b-41a4-b821-19d226ab7289)
+![4](https://github.com/user-attachments/assets/7c96e1f4-884d-4a7c-929f-07e9aa43af7f)
+![5](https://github.com/user-attachments/assets/7d35072b-a068-4c42-9a7a-2fb228002dfb)
+![6](https://github.com/user-attachments/assets/a03349db-2cc2-4c6d-9c27-28989bec3878)
+![7](https://github.com/user-attachments/assets/3b1dc9d0-0dca-48da-a465-1adb1ae22bf4)
