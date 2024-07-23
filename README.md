@@ -1,4 +1,4 @@
-#잡왕(구인구직 플랫폼 1)
+# 잡왕(구인구직 플랫폼 1)
 
 ![20](https://github.com/user-attachments/assets/52bbce12-56b3-4b04-a321-fcf8c558d06b)
 ![21](https://github.com/user-attachments/assets/b22e8312-e738-4c53-8afa-055ef2c53c0b)
